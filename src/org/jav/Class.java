@@ -1,6 +1,10 @@
 package org.jav;
 
 public class Class {
+	private void nameTwo() {
+		// TODO Auto-generated method stub
+		System.out.println("nameTwo");
+	}
 	public static void main(String[] args) {
 		int a[] = new int[3];
 		a[1]=10;
